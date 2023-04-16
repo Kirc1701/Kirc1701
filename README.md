@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 
 - 🔭 I’m currently working on ...
@@ -11,7 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 <h1 align="center">ello</h1> 
 <h3>About me</h3> 
